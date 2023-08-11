@@ -1,1 +1,22 @@
+def main():
+    """
+    #Ejercicio1
+    n= int(input("Ingrese un numero n:"))
+    m= int(input("Ingrese un numero menor a n: "))
+    print(f"La suma de pares es: {sumapares(n, m)}")
+    """
+    """
+    #Ejercicio3
+    N= int(input("Ingrese un numero: "))
+    print("Su numero es primo:", esPrimo(N))
+    """
+    """
+    Ejercicio2
+    x = int(input('Ingresa el numero de elementos de la lista: '))
+    lista(x)
+    """
+    #Ejercicio4 
+    x = calculadora()
+    print('El resultado es: ', x)
+    """
 
